@@ -1,4 +1,4 @@
-> Our default community health files for all our repositories on GitHub.
+9> Our default community health files for all our repositories on GitHub.
 
 Note: These files are automatically overridden with their equivalent file if available in a repo. Some files like CODEOWNERS, LICENSE.md, etc. do not cascade over to other repositories.
 
